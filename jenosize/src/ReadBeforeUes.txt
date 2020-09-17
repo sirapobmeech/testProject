@@ -1,0 +1,7 @@
+*** อ่านก่อนใช้งาน ***
+
+- เข้าไปที่ './src/Unitility/Service.js'
+- นำ Google api ของท่านไปวางแทนที่ "ADD_GOOGLE_API_KEY"
+- ทำการ npm start ใหม่อีกครั้ง
+
+
