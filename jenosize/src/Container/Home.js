@@ -10,7 +10,7 @@ export default function LogicTest() {
             const increaseVal = diff + 2
            value =[...value,(value[value.length - 1] + increaseVal)]
         }
-        console.log("success value ==>",value)
+        console.log("Answer : ",value)
     }
     return (
         <div>

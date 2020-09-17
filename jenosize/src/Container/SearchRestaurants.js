@@ -13,7 +13,6 @@ export default function Search() {
         getPlace(text)
             .then((res) => {
                 if(res.data.error_message){
-                    console.log("dsdasdas")
                     (window.alert(res.data.error_message))
                 }
                 else{
